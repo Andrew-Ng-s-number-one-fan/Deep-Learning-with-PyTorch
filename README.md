@@ -2,6 +2,14 @@
 
 <i> A book by Eli Stevens, Luca Antiga, Thomas Viehmann, and Soumith Chintala</i>
 
+<br>
+<p align="center">
+  <img src="https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Notebooks/dl-with-python.png" height="376px" width="300px">  
+</p>
+<br>
+
+# Notebooks
+
 ### Chapter 1 - Introducing Deep Learning and the PyTorch Library
 
 ### Chapter 2 - Pretrained Networks
