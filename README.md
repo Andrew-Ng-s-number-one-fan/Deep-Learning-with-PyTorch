@@ -12,11 +12,11 @@
 
 ### Chapter 1 - Introducing Deep Learning and the PyTorch Library
 
+### Chapter 2 - Pretrained Networks
+
 - [Image Recognition.ipynb]()
 - [CycleGAN.ipynb]()
 - [MNIST Dataset.ipynb]()
-
-### Chapter 2 - Pretrained Networks
 
 ### Chapter 3 - It Starts with a Tensor
 
