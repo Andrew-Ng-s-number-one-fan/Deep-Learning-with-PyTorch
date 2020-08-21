@@ -16,9 +16,12 @@
 
 - [Image Recognition with ResNet101.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-PyTorch/blob/master/Notebooks/C2_N1_image_recognition.ipynb)
 - [Image Generation with CycleGAN.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-PyTorch/blob/master/Notebooks/C2_N2_cyclegan.ipynb)
-- [MNIST Dataset.ipynb]()
+- [MNIST Dataset.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-PyTorch/blob/master/Notebooks/C2_N3_mnist.ipynb)
 
 ### Chapter 3 - It Starts with a Tensor
+
+- Tensors.ipynb
+- Named Tensors.ipynb
 
 ### Chapter 4 - Real-World Data Representation using Tensors
 
