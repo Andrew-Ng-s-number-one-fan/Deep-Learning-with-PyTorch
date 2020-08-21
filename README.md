@@ -15,7 +15,7 @@
 ### Chapter 2 - Pretrained Networks
 
 - [Image Recognition with ResNet101.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-PyTorch/blob/master/Notebooks/C2_N1_image_recognition.ipynb)
-- [Image Generation with CycleGAN.ipynb]()
+- [Image Generation with CycleGAN.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-PyTorch/blob/master/Notebooks/C2_N2_cyclegan.ipynb)
 - [MNIST Dataset.ipynb]()
 
 ### Chapter 3 - It Starts with a Tensor
