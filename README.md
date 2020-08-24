@@ -20,8 +20,8 @@
 
 ### Chapter 3 - It Starts with a Tensor
 
-- Tensors.ipynb
-- Named Tensors.ipynb
+- [Tensors.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-PyTorch/blob/master/Notebooks/C3_N1_tensor.ipynb)
+- [Named Tensors.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-PyTorch/blob/master/Notebooks/C3_N2_named_tensors.ipynb)
 
 ### Chapter 4 - Real-World Data Representation using Tensors
 
