@@ -25,6 +25,12 @@
 
 ### Chapter 4 - Real-World Data Representation using Tensors
 
+- [Working with Images.ipynb]()
+- [3D Images: Volumetric Data.ipynb]()
+- [Representing Tabular Data.ipynb]()
+- [Working with Time Series.ipynb]()
+- [Representing Texts.ipynb]()
+
 ### Chapter 5 - The Mechanics of Learning
 
 ### Chapter 6 - Using a Neural Network to Fit the Data
