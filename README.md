@@ -41,7 +41,13 @@
 
 ### Chapter 6 - Using a Neural Network to Fit the Data
 
+- [Neural Networks.ipynb]()
+- [Activation Functions.ipynb]()
+- [`nn` Module Subclassing.ipynb]()
+
 ### Chapter 7 - Telling Birds from Airplanes: Learning from Images
+
+- [Datasets.ipynb]()
 
 ### Chapter 8 - Using Convolutions to Generalize
 
