@@ -43,7 +43,7 @@
 
 - [Neural Networks.ipynb]()
 - [Activation Functions.ipynb]()
-- [`nn` Module Subclassing.ipynb]()
+- [nn Module Subclassing.ipynb]()
 
 ### Chapter 7 - Telling Birds from Airplanes: Learning from Images
 
