@@ -35,6 +35,10 @@
 
 ### Chapter 5 - The Mechanics of Learning
 
+- [Parameter Estimation.ipynb]()
+- [Autograd.ipynb]()
+- [Optimizers.ipynb]()
+
 ### Chapter 6 - Using a Neural Network to Fit the Data
 
 ### Chapter 7 - Telling Birds from Airplanes: Learning from Images
