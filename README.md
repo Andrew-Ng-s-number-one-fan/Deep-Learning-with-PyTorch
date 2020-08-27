@@ -35,13 +35,13 @@
 
 ### Chapter 5 - The Mechanics of Learning
 
-- [Parameter Estimation.ipynb]()
-- [Autograd.ipynb]()
-- [Optimizers.ipynb]()
+- [Parameter Estimation.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-PyTorch/blob/master/Notebooks/C5_N1_parameter_estimation.ipynb)
+- [Autograd.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-PyTorch/blob/master/Notebooks/C5_N2_autograd.ipynb)
+- [Optimizers.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-PyTorch/blob/master/Notebooks/C5_N3_optimizers.ipynb)
 
 ### Chapter 6 - Using a Neural Network to Fit the Data
 
-- [Neural Networks.ipynb]()
+- [Neural Networks.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-PyTorch/blob/master/Notebooks/C6_N1_neural_networks.ipynb)
 - [Activation Functions.ipynb]()
 - [nn Module Subclassing.ipynb]()
 
