@@ -47,7 +47,8 @@
 
 ### Chapter 7 - Telling Birds from Airplanes: Learning from Images
 
-- [Datasets.ipynb]()
+- [The CIFAR10 Dataset.ipynb]()
+- [Distinguishing Birds from Airplanes.ipynb]()
 
 ### Chapter 8 - Using Convolutions to Generalize
 
