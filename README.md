@@ -52,6 +52,8 @@
 
 ### Chapter 8 - Using Convolutions to Generalize
 
+- [Convolutions.ipynb]()
+
 ### Chapter 9 - Using PyTorch to Fight Cancer
 
 ### Chapter 10 - Combining Data Sources into a Unified Dataset
